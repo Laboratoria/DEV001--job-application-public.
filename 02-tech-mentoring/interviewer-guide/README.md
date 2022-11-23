@@ -21,7 +21,7 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies
 _feedback por correo electrónico_ a las estudiantes sobre su desempeño y llenar
-un [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) con la
+un [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSdPg4LKKbcr0mgpdZPD-Q2A7OsjqQagOL0TQvR_PGjFRev0DA/viewform?usp=sf_link) con la
 evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
@@ -46,7 +46,9 @@ Esta dinámica tiene 2 objetivos principales:
 
 ## La dinámica
 
-Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
+La vacante a la que la estudiante estarán aspirando es la que encuentras en este [link](https://docs.google.com/document/d/1AQMpRAisd8X1raxhYzW7mviCB1sN42Okg32_ewfgTDI/edit). Es importante que tengas encuenta lo que se describe para la simulación. ¡No te olvides que están en su proceso de aprendizaje aún!
+
+Conviene además recordar que todas las estudiantes tienen un bagaje muy diferente antes
 de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
 totalmente diferentes y siempre vale la pena iniciar una conversación distendida
 para _"romper el hielo"_ y que se sientan más cómodas.
@@ -207,7 +209,7 @@ recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
 en los puntos que podría mejorar.
 
 2)**Feedback hacia el equipo**, el que realizarás a través de un 
-[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) que te pedirá evaluar
+[_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSdPg4LKKbcr0mgpdZPD-Q2A7OsjqQagOL0TQvR_PGjFRev0DA/viewform?usp=sf_link) que te pedirá evaluar
 su desempeño en los distintos aspectos que integran la simulación y dejarnos
 recomendaciones para el equipo.
 
