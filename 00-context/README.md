@@ -93,12 +93,12 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |x/12 x:xxpm    |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |x/12 x:xxpm   |
+| Sesión de Q&A sobre el programa.                    |   Fija   |          |**06/12** 04pm MX - 05pm PE/CO - 07pm CL    |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |**13/12** 04pm MX - 05pm PE/CO - 07pm CL    |
 | Sesión de seguimiento al feedback.                  | Abierta  |del 19/12 al 06/01|          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |del 9/01 al 13/01          |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |         |hasta el 10/01          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |del 16/01 al 27/01|          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |del 31/01 al 03/02          |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |         |hasta el 31/01          |
 
 ### Objetivos de aprendizaje
 
@@ -131,7 +131,7 @@ simulación y revisión y feedback de su Github profile.**
 |----------------------------------------------|----------|----------|---------:|
 | Sesión de Q&A sobre el programa.             |   Fija   |del 30/01 al 03/02          |por definir          |
 | Simulación de entrevista técnica.            | Abierta  |del 06/02 al 17/02          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |del 20/02 al 24/02          |          |
+| Enviar formulario evaluación y feedback.     | Abierta  |         |hasta el 21/02          |
 
 ### Objetivos de aprendizaje
 
